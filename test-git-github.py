@@ -1,3 +1,6 @@
-print('Hello World')
+name  = input('Qual o seu nome?')
 
-print('Hello Git & Github')
+if name == 'Lara':
+    print('Oi neném!')
+else:
+    print("Olá!")
