@@ -1,6 +1,6 @@
 name  = input('Qual o seu nome?')
 
 if name == 'Lara':
-    print('Oi neném!')
+    print('Olá neném!')
 else:
     print("Olá!")
